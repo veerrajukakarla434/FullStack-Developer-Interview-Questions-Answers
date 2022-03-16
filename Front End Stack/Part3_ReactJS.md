@@ -1,5 +1,6 @@
 ## React JS Interview Questions & Answers
 * Ref
+* https://www.javatpoint.com/react-interview-questions#ReactComponent
 * https://tms-outsource.com/blog/posts/react-interview-questions/
 * https://www.fullstack.cafe/blog/react-js-interview-questions
 * https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
