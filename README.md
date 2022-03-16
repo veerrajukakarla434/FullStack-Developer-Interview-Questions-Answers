@@ -45,3 +45,8 @@
 * Algorithems
 * Data Structures 
 * **Problem Solving in Java**
+
+* **------------- Cloud Computing ----------**
+* AWS Solution Architect 
+* GCP Solution Architect
+* Azure Solution Architect
